@@ -8,18 +8,18 @@ DSLS-DE-Mini-Project
 Mini Project ini menggunakan database Microsoft SQL Server
 
 Dataset yang digunakan pada mini project ini adalah Northwind sampel data dari Microsoft yang terdiri dari 13 tables yaitu
-1.Categories
-2.CustomerCustomerDemo
-3.CustomerDemographics
-4.Customers
-5.Employees
-6.EmployeeTerritories
-7.OrderDetails
-8.Orders
-9.Products
-10.Region
-11.Shippers
-12.Suppliers
+1.Categories,
+2.CustomerCustomerDemo,
+3.CustomerDemographics,
+4.Customers,
+5.Employees,
+6.EmployeeTerritories,
+7.OrderDetails,
+8.Orders,
+9.Products,
+10.Region,
+11.Shippers,
+12.Suppliers,
 13.Territories
 
 Deliverables dari proyek ini yaitu
