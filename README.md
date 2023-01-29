@@ -25,15 +25,15 @@ Dataset yang digunakan pada mini project ini adalah Northwind sampel data dari M
 Deliverables dari proyek ini yaitu
 a. Intermediate Queries 
 untuk mereview kemampuan query dengan soal berikut
-1.Tulis query untuk mendapatkan jumlah customer tiap bulan yang melakukan order pada tahun 1997.
-2.Tulis query untuk mendapatkan nama employee yang termasuk Sales Representative.
-3.Tulis query untuk mendapatkan top 5 nama produk yang quantitynya paling banyak diorder pada bulan Januari 1997.
-4.Tulis query untuk mendapatkan nama company yang melakukan order Chai pada bulan Juni 1997.
-5.Tulis query untuk mendapatkan jumlah OrderID yang pernah melakukan pembelian (unit_price dikali quantity) <=100, 100<x<=250, 250<x<=500, dan >500.
-6.Tulis query untuk mendapatkan Company name pada tabel customer yang melakukan pembelian di atas 500 pada tahun 1997.
-7.Tulis query untuk mendapatkan nama produk yang merupakan Top 5 sales tertinggi tiap bulan di tahun 1997.
-8.Buatlah view untuk melihat Order Details yang berisi OrderID, ProductID, ProductName, UnitPrice, Quantity, Discount, Harga setelah diskon.
-9.Buatlah procedure Invoice untuk memanggil CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate jika terdapat inputan CustomerID tertentu.
+1. Tulis query untuk mendapatkan jumlah customer tiap bulan yang melakukan order pada tahun 1997.
+2. Tulis query untuk mendapatkan nama employee yang termasuk Sales Representative.
+3. Tulis query untuk mendapatkan top 5 nama produk yang quantitynya paling banyak diorder pada bulan Januari 1997.
+4. Tulis query untuk mendapatkan nama company yang melakukan order Chai pada bulan Juni 1997.
+5. Tulis query untuk mendapatkan jumlah OrderID yang pernah melakukan pembelian (unit_price dikali quantity) <=100, 100<x<=250, 250<x<=500, dan >500.
+6. Tulis query untuk mendapatkan Company name pada tabel customer yang melakukan pembelian di atas 500 pada tahun 1997.
+7. Tulis query untuk mendapatkan nama produk yang merupakan Top 5 sales tertinggi tiap bulan di tahun 1997.
+8. Buatlah view untuk melihat Order Details yang berisi OrderID, ProductID, ProductName, UnitPrice, Quantity, Discount, Harga setelah diskon.
+9. Buatlah procedure Invoice untuk memanggil CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate jika terdapat inputan CustomerID tertentu.
 
 b. case study
 case study yang dilakukan adalah sebagai berikut
