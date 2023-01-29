@@ -23,6 +23,7 @@ Dataset yang digunakan pada mini project ini adalah Northwind sampel data dari M
 13. Territories
 
 Deliverables dari proyek ini yaitu
+
 a. Intermediate Queries 
 untuk mereview kemampuan query dengan soal berikut
 1. Tulis query untuk mendapatkan jumlah customer tiap bulan yang melakukan order pada tahun 1997.
