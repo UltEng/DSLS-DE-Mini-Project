@@ -33,21 +33,19 @@ The Dataset used for this project is a sample data from Microsoft, Northwind whi
 13. Territories
 
 ## Project Deliverables
-### 1. Intermediate Queries
+This Project Deliverables are as below
+### a. Intermediate Queries
+1. Create a query to get the number of customer each month making an order in 1997.
+2. Create a query to get the employee name including the Sales Representative
+3. Create a query to get the top 5 product with most quantity in january 1997
+4. Create a query to get the company name that make an order of Chai in June 1997
+5. Create a query to get the number of OrderID that make purchase (unit_price multiply by quantity) <=100, 100<x<=250, 250<x<=500, and >500
+6. Create a query to get the company name in customer table that make purchase above 500 in 1997
+7. Create a query to get the product name that is in the top 5 highest sales each month in 1997
+8. Create a view to see Order Details that containt OrderID, ProductID, ProductName, UnitPrice, Quantity, Discount, Price After Discount.
+9. Create a procedure invoice to call CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate if it have certain CustomerID input.
+The .sql file and result can be check in the Intermediate Queries Folder
 
-Deliverables dari proyek ini yaitu
-
-a. Intermediate Queries 
-untuk mereview kemampuan query dengan soal berikut
-1. Tulis query untuk mendapatkan jumlah customer tiap bulan yang melakukan order pada tahun 1997.
-2. Tulis query untuk mendapatkan nama employee yang termasuk Sales Representative.
-3. Tulis query untuk mendapatkan top 5 nama produk yang quantitynya paling banyak diorder pada bulan Januari 1997.
-4. Tulis query untuk mendapatkan nama company yang melakukan order Chai pada bulan Juni 1997.
-5. Tulis query untuk mendapatkan jumlah OrderID yang pernah melakukan pembelian (unit_price dikali quantity) <=100, 100<x<=250, 250<x<=500, dan >500.
-6. Tulis query untuk mendapatkan Company name pada tabel customer yang melakukan pembelian di atas 500 pada tahun 1997.
-7. Tulis query untuk mendapatkan nama produk yang merupakan Top 5 sales tertinggi tiap bulan di tahun 1997.
-8. Buatlah view untuk melihat Order Details yang berisi OrderID, ProductID, ProductName, UnitPrice, Quantity, Discount, Harga setelah diskon.
-9. Buatlah procedure Invoice untuk memanggil CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate jika terdapat inputan CustomerID tertentu.
 
 b. case study
 case study yang dilakukan adalah sebagai berikut
