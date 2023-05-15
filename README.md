@@ -59,6 +59,10 @@ The .sql file and result can be check in the Intermediate Queries Folder
 ### b. Case Study
 The Case Study that is done in this project is as below
 #### 1. Product Analysis
+To know the monthly sales trend and contribution of each category toward that sales (Tools used: Tableau)
+##### Monthly Sales Trend
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_1.png">
+
 untuk mengetahui trend bulanan sales dan kontribusi tiap kategori terhadap sales tersebut (Tools yang digunakan: Tableau)
 2. Customer Analysis
 untuk mengetahui segmentasi customer dan distribusi tiap segmentasi (Tools yang digunakan: Google Colab)
