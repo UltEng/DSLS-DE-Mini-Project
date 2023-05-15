@@ -11,11 +11,20 @@ The main responsibilty of Data Consultant is to help company to make decision ba
 
 ETL (Extract, Transform, Load) is a data integration process covers data extraction from many sources, continue with data transformation (agregration process, rounding, calculation, mapping, string funtion, etc), and finished with load that is storing data inside data warehouse system. Data that is from many sources then is processed into a consistent data so it will be easier to analyze 
 
-## Tools and Dataset
+## Tools
 
-The tools used for this project is Microsoft SQL Server
+The tools used for this project is 
 
+### 1.Microsoft SQL Server
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/SQL_Server.png">
+
+### 2.Tableau
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/Tableau.png">
+
+### 3.Google Colab
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/Colab.png">
+
+## Dataset
 
 The Dataset used for this project is a sample data from Microsoft, Northwind which consist of 13 columns and that are
 1. Categories,
@@ -33,7 +42,7 @@ The Dataset used for this project is a sample data from Microsoft, Northwind whi
 13. Territories
 
 ## Project Deliverables
-This Project Deliverables are as below
+The Project Deliverables for this Mini Data Engineering Project are as below
 ### a. Intermediate Queries
 1. Create a query to get the number of customer each month making an order in 1997.
 2. Create a query to get the employee name including the Sales Representative
@@ -47,9 +56,9 @@ This Project Deliverables are as below
 The .sql file and result can be check in the Intermediate Queries Folder
 
 
-b. case study
-case study yang dilakukan adalah sebagai berikut
-1. Product Analysis
+### b. Case Study
+The Case Study that is done in this project is as below
+#### 1. Product Analysis
 untuk mengetahui trend bulanan sales dan kontribusi tiap kategori terhadap sales tersebut (Tools yang digunakan: Tableau)
 2. Customer Analysis
 untuk mengetahui segmentasi customer dan distribusi tiap segmentasi (Tools yang digunakan: Google Colab)
