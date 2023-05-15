@@ -33,7 +33,7 @@ The Dataset used for this project is a sample data from Microsoft, Northwind whi
 13. Territories
 
 ## Project Deliverables
-# 1. Intermediate Queries
+### 1. Intermediate Queries
 
 Deliverables dari proyek ini yaitu
 
