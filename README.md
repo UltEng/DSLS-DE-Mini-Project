@@ -62,6 +62,7 @@ The Case Study that is done in this project is as below
 To know the monthly sales trend and contribution of each category toward that sales (Tools used: Tableau)
 ##### Monthly Sales Trend
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_1.png">
+
 ##### Percentage of Each Category Sales
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_2.png">
 
