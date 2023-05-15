@@ -9,18 +9,15 @@ The main responsibilty of Data Consultant is to help company to make decision ba
 
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/ETL.png">
 
+ETL (Extract, Transform, Load) is a data integration process covers data extraction from many sources, continue with data transformation (agregration process, rounding, calculation, mapping, string funtion, etc), and finished with load that is storing data inside data warehouse system. Data that is from many sources then is processed into a consistent data so it will be easier to analyze 
 
+## Tools and Dataset
 
+The tools used for this project is Microsoft SQL Server
 
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/SQL_Server.png">
 
-
-
-
-*Ini adalah mini project data engineering pada bootcamp data consultant oleh Data Science Indonesia*
-
-Mini Project ini menggunakan database Microsoft SQL Server
-
-Dataset yang digunakan pada mini project ini adalah Northwind sampel data dari Microsoft yang terdiri dari 13 tables yaitu
+The Dataset used for this project is a sample data from Microsoft, Northwind which consist of 13 columns and that are
 1. Categories,
 2. CustomerCustomerDemo,
 3. CustomerDemographics,
