@@ -60,7 +60,12 @@ The queries that is done in this project is as below (The .sql file and result c
 ### b. Case Study
 The Case Study that is done in this project is as below
 #### 1. Product Analysis
-To know the monthly sales trend and contribution of each category toward that sales (Tools used: Tableau)
+Objective: To know the monthly sales trend and contribution of each category toward that sales (Tools used: Tableau)
+Columns Used: Orders, Order Detail, Product, Category (the .sql file and result can be check in the Case Study folder)
+
+##### Flowchart
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_1.png">
+
 ##### Monthly Sales Trend
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_1.png">
 
@@ -68,7 +73,11 @@ To know the monthly sales trend and contribution of each category toward that sa
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_2.png">
 
 #### 2. Customer Analysis
-To know customer segmentation and distribution of each segmentation (Tools used: Google Colab)
+Objective: To know customer segmentation and distribution of each segmentation (Tools used: Google Colab)
+Columns Used: Customers, Orders, Order Detail (the .sql file and result can be check in the Case Study folder)
+
+##### Flowchart
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_2.png">
 
 ##### Customer Segmentation
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/CA_1.png">
@@ -77,7 +86,14 @@ To know customer segmentation and distribution of each segmentation (Tools used:
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/CA_2.png">
 
 #### 3. Employee Analysis
-To know the contribution of each sales representative toward sales and comparison of with other title (Tools used: Tableau)
+Objective: To know the contribution of each sales representative toward sales and comparison of with other title (Tools used: Tableau)
+Columns Used: Employee, Orders, Order Detail (the .sql file and result can be check in the Case Study folder)
+
+
+##### Flowchart
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_3.png">
+
+##### Employee Sales
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/EA_1.png">
 
 
