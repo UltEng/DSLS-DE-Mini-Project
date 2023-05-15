@@ -42,7 +42,7 @@ The Dataset used for this project is a sample data from Microsoft, Northwind whi
 13. Territories
 
 ## Project Deliverables
-The Project Deliverables for this Mini Data Engineering Project are as below
+The Project Deliverables for this Mini Data Engineering Project are as below (The .sql file and result can be check in the Intermediate Queries Folder)
 ### a. Intermediate Queries
 1. Create a query to get the number of customer each month making an order in 1997.
 2. Create a query to get the employee name including the Sales Representative
@@ -52,8 +52,8 @@ The Project Deliverables for this Mini Data Engineering Project are as below
 6. Create a query to get the company name in customer table that make purchase above 500 in 1997
 7. Create a query to get the product name that is in the top 5 highest sales each month in 1997
 8. Create a view to see Order Details that containt OrderID, ProductID, ProductName, UnitPrice, Quantity, Discount, Price After Discount.
-9. Create a procedure invoice to call CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate if it have certain CustomerID input.
-The .sql file and result can be check in the Intermediate Queries Folder
+9. Create a procedure invoice to call CustomerID, CustomerName/company name, OrderID, OrderDate, RequiredDate, ShippedDate if it have certain CustomerID input
+
 
 
 ### b. Case Study
