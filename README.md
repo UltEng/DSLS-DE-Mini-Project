@@ -7,6 +7,10 @@ DSLS-DE-Mini-Project
 ## Background
 The main responsibilty of Data Consultant is to help company to make decision based on data and optimize data usage. To achieve said responsibilty, the first step has to be master by data consultant is the ability to integrate data using ETL method
 
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/ETL.png">
+
+
+
 
 
 
