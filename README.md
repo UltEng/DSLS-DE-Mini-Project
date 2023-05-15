@@ -66,10 +66,18 @@ To know the monthly sales trend and contribution of each category toward that sa
 ##### Percentage of Each Category Sales
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_2.png">
 
+#### 2. Customer Analysis
+To know customer segmentation and distribution of each segmentation (Tools used: Google Colab)
 
-untuk mengetahui trend bulanan sales dan kontribusi tiap kategori terhadap sales tersebut (Tools yang digunakan: Tableau)
-2. Customer Analysis
-untuk mengetahui segmentasi customer dan distribusi tiap segmentasi (Tools yang digunakan: Google Colab)
-3. Employee Analysis
-untuk mengetahui kontribusi tiap sales representative terhadap sales dan perbandingannya dengan title lain (Tools yang digunakan: Tableau)
+##### Customer Segmentation
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/CA_1.png">
+
+##### Customer Segmentation Distribution
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/CA_2.png">
+
+#### 3. Employee Analysis
+To know the contribution of each sales representative toward sales and comparison of with other title (Tools used: Tableau)
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/EA_1.png">
+
+
 
