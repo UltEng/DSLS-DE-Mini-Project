@@ -42,8 +42,9 @@ The Dataset used for this project is a sample data from Microsoft, Northwind whi
 13. Territories
 
 ## Project Deliverables
-The Project Deliverables for this Mini Data Engineering Project are as below (The .sql file and result can be check in the Intermediate Queries Folder)
+The Project Deliverables for this Mini Data Engineering Project are as below 
 ### a. Intermediate Queries
+The queries that is done in this project is as below (The .sql file and result can be check in the Intermediate Queries Folder)
 1. Create a query to get the number of customer each month making an order in 1997.
 2. Create a query to get the employee name including the Sales Representative
 3. Create a query to get the top 5 product with most quantity in january 1997
