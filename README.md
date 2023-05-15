@@ -3,6 +3,15 @@ DSLS-DE-Mini-Project
 <br>
 </h1>
 
+
+## Background
+The main responsibilty of Data Consultant is to help company to make decision based on data and optimize data usage. To achieve said responsibilty, the first step has to be master by data consultant is the ability to integrate data using ETL method
+
+
+
+
+
+
 *Ini adalah mini project data engineering pada bootcamp data consultant oleh Data Science Indonesia*
 
 Mini Project ini menggunakan database Microsoft SQL Server
