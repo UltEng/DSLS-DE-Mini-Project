@@ -64,7 +64,7 @@ Objective: To know the monthly sales trend and contribution of each category tow
 Columns Used: Orders, Order Detail, Product, Category (the .sql file and result can be check in the Case Study folder)
 
 ##### Flowchart
-<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_1.png">
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC1.png">
 
 ##### Monthly Sales Trend
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/PA_1.png">
@@ -77,7 +77,7 @@ Objective: To know customer segmentation and distribution of each segmentation (
 Columns Used: Customers, Orders, Order Detail (the .sql file and result can be check in the Case Study folder)
 
 ##### Flowchart
-<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_2.png">
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC2.png">
 
 ##### Customer Segmentation
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/CA_1.png">
@@ -91,7 +91,7 @@ Columns Used: Employee, Orders, Order Detail (the .sql file and result can be ch
 
 
 ##### Flowchart
-<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC_3.png">
+<img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/FC3.png">
 
 ##### Employee Sales
 <img src="https://raw.githubusercontent.com/UltEng/DSLS-DE-Mini-Project/master/EA_1.png">
