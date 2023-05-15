@@ -1,5 +1,5 @@
 <h1 align="center">
-DSLS-DE-Mini-Project
+**DSLS-DE-Mini-Project**
 <br>
 </h1>
 
